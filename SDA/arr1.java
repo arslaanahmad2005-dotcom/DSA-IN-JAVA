@@ -27,7 +27,7 @@ public class arr1 {
         System.out.println("Largest Number is :" +max);
         System.out.println("Smallest Number is :" +min);
 
-
+        sc.close();
     }
 
 }
