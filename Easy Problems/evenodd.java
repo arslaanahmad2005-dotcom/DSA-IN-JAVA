@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class evenodd {
     public static void main(String[] args) {
         // Create a scanner for user input
+        
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Enter an integer: ");
