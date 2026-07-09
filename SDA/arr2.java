@@ -1,6 +1,5 @@
 package SDA;
 //leetcode array problem 1 better optimal solution
-
 import java.util.HashMap;
 
 class arr2 {
